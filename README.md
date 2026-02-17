@@ -42,6 +42,11 @@ I successfully generated a full demographic report answering all 19 scenarios. K
 * **Technical Proficiency:** Demonstrated mastery of **referential integrity** (Primary/Foreign Keys) and complex data manipulation.
 
 ---
+
+### 📊 Use the Code
+
+[Download the file with the code](Queryfile.sql)
+
 ## Screenshots from SQL DB Fiddle
 
 #  <img src="tres.png">
