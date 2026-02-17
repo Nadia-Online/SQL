@@ -7,12 +7,12 @@ This project involved the setup and analysis of a comprehensive relational datab
 ---
 
 ## Situation
-As part of the Day 4 curriculum for the **Data Technician** course, I was tasked with a practical SQL exercise. The objective was to implement a "world" database and solve 20 specific data retrieval scenarios ranging from basic counts to complex multi-table joins.
+As part of the Day 4 curriculum for the **Data Technician** course, I was tasked with a practical SQL exercise. The objective was to implement a "world" database and solve 19 specific data retrieval scenarios ranging from basic counts to complex multi-table joins.
 
 ## Task
 The primary requirements included:
 * **Database Setup:** Successfully implement the world database (City, Country, and CountryLanguage tables).
-* **Data Retrieval:** Write and execute SQL syntax to answer 20 business-driven questions.
+* **Data Retrieval:** Write and execute SQL syntax to answer 19 business-driven questions.
 * **Analysis:** Perform tasks such as identifying life expectancy leaders, urban population counts, and average population metrics.
 
 ## Action
@@ -35,13 +35,20 @@ I authored and tested SQL statements for several key scenarios:
 ---
 
 ## Result
-I successfully generated a full demographic report answering all 20 scenarios. Key outcomes included:
+I successfully generated a full demographic report answering all 19 scenarios. Key outcomes included:
 * **Longevity Insights:** Identified **Andorra** as the country with the highest life expectancy (**83.5 years**).
 * **Market Research:** Compiled a top 10 list of the most populous global cities.
 * **Urban Planning:** Provided a filtered list of mid-sized cities (500k–1M population) for infrastructure analysis.
 * **Technical Proficiency:** Demonstrated mastery of **referential integrity** (Primary/Foreign Keys) and complex data manipulation.
 
 ---
+## Screenshots from SQL DB Fiddle
+
+#  <img src="tres.png">
+
+#   <img src="dos.png"> 
+
+#  <img src="una.png"> 
 
 ## Database Structure Summary
 | Table | Records | Description |
